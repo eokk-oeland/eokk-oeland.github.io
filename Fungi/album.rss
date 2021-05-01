@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fungi</title>
+   	<link>..</link>
+        <generator>jAlbum 23.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://xn--land-saar-z7a.cc/Fungi/</jalbum:absolutePath>
+        <item>
+            <title>DSC07865</title>
+            <link>https://xn--land-saar-z7a.cc/Fungi/slides/DSC07865.JPG</link>
+            <pubDate>Sun, 26 May 2019 14:13:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://xn--land-saar-z7a.cc/Fungi/thumbs/DSC07865.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://xn--land-saar-z7a.cc/Fungi/slides/DSC07865.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 14 May 2019 17:19:03 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07865.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07866</title>
+            <link>https://xn--land-saar-z7a.cc/Fungi/slides/DSC07866.JPG</link>
+            <pubDate>Sun, 26 May 2019 14:13:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://xn--land-saar-z7a.cc/Fungi/thumbs/DSC07866.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://xn--land-saar-z7a.cc/Fungi/slides/DSC07866.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 14 May 2019 17:19:06 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07866.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07867</title>
+            <link>https://xn--land-saar-z7a.cc/Fungi/slides/DSC07867.JPG</link>
+            <pubDate>Sun, 26 May 2019 14:13:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://xn--land-saar-z7a.cc/Fungi/thumbs/DSC07867.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://xn--land-saar-z7a.cc/Fungi/slides/DSC07867.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 14 May 2019 17:19:18 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07867.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08021</title>
+            <link>https://xn--land-saar-z7a.cc/Fungi/slides/DSC08021.JPG</link>
+            <pubDate>Sun, 26 May 2019 14:13:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://xn--land-saar-z7a.cc/Fungi/thumbs/DSC08021.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://xn--land-saar-z7a.cc/Fungi/slides/DSC08021.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Wed, 15 May 2019 13:39:44 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08021.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08022</title>
+            <link>https://xn--land-saar-z7a.cc/Fungi/slides/DSC08022.JPG</link>
+            <pubDate>Sun, 26 May 2019 14:13:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://xn--land-saar-z7a.cc/Fungi/thumbs/DSC08022.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://xn--land-saar-z7a.cc/Fungi/slides/DSC08022.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 15 May 2019 13:39:53 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08022.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08022_С</title>
+            <link>https://xn--land-saar-z7a.cc/Fungi/slides/DSC08022_%D0%A1.jpg</link>
+            <pubDate>Sun, 26 May 2019 14:13:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://xn--land-saar-z7a.cc/Fungi/thumbs/DSC08022_%D0%A1.jpg" width="360" height="360"/>
+            <media:content type="image/jpeg" url="https://xn--land-saar-z7a.cc/Fungi/slides/DSC08022_%D0%A1.jpg" width="1680" height="1680"/>
+            <jalbum:exif originalDate="Wed, 15 May 2019 13:39:53 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08022_%D0%A1.jpg</guid>
+        </item>
+    </channel>
+</rss>
